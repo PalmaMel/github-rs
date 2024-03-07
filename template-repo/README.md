@@ -1,4 +1,4 @@
-# Título del Programa 
+# Título del Programa del Templado >3
 
 Este es un script de Python diseñado para...
 
@@ -41,6 +41,6 @@ Este script está disponible bajo la licencia [nombre de la licencia]. Consulte 
 
 Si utiliza este script en su trabajo, por favor cite: [información de citación].
 
-## Contáctenos
+## Contáctenos -=-
 
 Si tiene problemas o preguntas, por favor abra un problema en este repositorio o póngase en contacto con nosotros en: [información de contacto].
