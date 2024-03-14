@@ -1,10 +1,15 @@
-# Título del Programa del Templado >3
+# Título del Programa 
 
 Este es un script de Python diseñado para...
 
 ## Uso
 
 El script...
+
+```
+python
+```
+
 ## Salida
 
 El script... 
@@ -18,7 +23,7 @@ Si el archivo proporcionado no existe, el script generará un mensaje de error. 
 El script incluye un conjunto de pruebas unitarias. Puede ejecutar estas pruebas con:
 
 ```
-python -m unittest test_sumador.py
+python 
 ```
 
 ## Datos
