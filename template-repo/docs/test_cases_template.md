@@ -1,26 +1,26 @@
 # Casos de prueba o escenarios    
     
-### Caso de prueba 1: Comprobación de la suma de números enteros
+### Caso de prueba 1: nombre caso de prueba
 
 - Descripción:
 - Datos de entrada: 
 - Resultado esperado: 
 
 
-### Caso de prueba 2: Comprobación de la suma de números decimales
+### Caso de prueba 2: nombre caso de prueba
 
 - Descripción:
 - Datos de entrada: 
 - Resultado esperado: 
 
 
-### Caso de prueba 3: Comprobación de error para datos no numéricos
+### Caso de prueba 3: nombre caso de prueba
 - Descripción:
 - Datos de entrada: 
 - Resultado esperados:
 
 
-### Caso de prueba 4: Comprobación de error para archivo no existente
+### Caso de prueba 4: nombre caso de prueba
 - Descripción: 
 - Datos de entrada:
 - Resultado esperado: 
