@@ -16,7 +16,7 @@ El script...
 
 ## Control de errores
 
-Si el archivo proporcionado no existe, el script generará un mensaje de error. Del mismo modo, si el archivo contiene entradas que no son números, el script generará un error.
+Si el archivo proporcionado no existe, el script generará un mensaje de error. Del mismo modo, si el archivo contiene entradas que no son ..., el script generará un error.
 
 ## Pruebas
 
